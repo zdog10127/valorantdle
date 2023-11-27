@@ -381,23 +381,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gabri\\.nuget\\packages\\": {},
+    "C:\\Users\\Zdog\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\API.Valorant.Dodle\\API.Valorant.Dodle.Utilitario\\API.Valorant.Dodle.Utilitario.csproj",
+      "projectUniqueName": "C:\\Users\\Zdog\\Documents\\Projetos\\valorantdle\\Backend\\API.Valorant.Dodle\\API.Valorant.Dodle.Utilitario\\API.Valorant.Dodle.Utilitario.csproj",
       "projectName": "API.Valorant.Dodle.Utilitario",
-      "projectPath": "D:\\Projetos\\API.Valorant.Dodle\\API.Valorant.Dodle.Utilitario\\API.Valorant.Dodle.Utilitario.csproj",
-      "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\API.Valorant.Dodle\\API.Valorant.Dodle.Utilitario\\obj\\",
+      "projectPath": "C:\\Users\\Zdog\\Documents\\Projetos\\valorantdle\\Backend\\API.Valorant.Dodle\\API.Valorant.Dodle.Utilitario\\API.Valorant.Dodle.Utilitario.csproj",
+      "packagesPath": "C:\\Users\\Zdog\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Zdog\\Documents\\Projetos\\valorantdle\\Backend\\API.Valorant.Dodle\\API.Valorant.Dodle.Utilitario\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Zdog\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -406,7 +406,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "D:\\Trabalho\\CWA\\CWAWeb\\CWA.Central.Londrina\\bin\\Debug": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -450,7 +450,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

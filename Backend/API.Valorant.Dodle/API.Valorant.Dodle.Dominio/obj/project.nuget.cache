@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zlyj+sDhIV7KmazCLxG0k11zvVn1pAnjPEhW/DY04nynRLjYXoH2Q5LPR+mD58vJ4yAzvqb7obUol7AuzWU9pg==",
+  "dgSpecHash": "WBpvvIZWzwnvffrjVmoW8TnLv4fR3NXdV8kFtHfYwbyTpN2NMHJ1DwrRIQNQXnRyax4n5l85dUgTUL8y9HysKg==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\API.Valorant.Dodle\\API.Valorant.Dodle.Dominio\\API.Valorant.Dodle.Dominio.csproj",
+  "projectFilePath": "C:\\Users\\Zdog\\Documents\\Projetos\\valorantdle\\Backend\\API.Valorant.Dodle\\API.Valorant.Dodle.Dominio\\API.Valorant.Dodle.Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
