@@ -1,0 +1,13 @@
+C:\Users\Zdog\Documents\Projetos\valorantdle\Backend\API.Valorant.Dodle\API.Valorant.Dodle.Utilitario\bin\Debug\net7.0\API.Valorant.Dodle.Utilitario.deps.json
+C:\Users\Zdog\Documents\Projetos\valorantdle\Backend\API.Valorant.Dodle\API.Valorant.Dodle.Utilitario\bin\Debug\net7.0\API.Valorant.Dodle.Utilitario.dll
+C:\Users\Zdog\Documents\Projetos\valorantdle\Backend\API.Valorant.Dodle\API.Valorant.Dodle.Utilitario\bin\Debug\net7.0\API.Valorant.Dodle.Utilitario.pdb
+C:\Users\Zdog\Documents\Projetos\valorantdle\Backend\API.Valorant.Dodle\API.Valorant.Dodle.Utilitario\obj\Debug\net7.0\API.Valorant.Dodle.Utilitario.csproj.AssemblyReference.cache
+C:\Users\Zdog\Documents\Projetos\valorantdle\Backend\API.Valorant.Dodle\API.Valorant.Dodle.Utilitario\obj\Debug\net7.0\API.Valorant.Dodle.Utilitario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zdog\Documents\Projetos\valorantdle\Backend\API.Valorant.Dodle\API.Valorant.Dodle.Utilitario\obj\Debug\net7.0\API.Valorant.Dodle.Utilitario.AssemblyInfoInputs.cache
+C:\Users\Zdog\Documents\Projetos\valorantdle\Backend\API.Valorant.Dodle\API.Valorant.Dodle.Utilitario\obj\Debug\net7.0\API.Valorant.Dodle.Utilitario.AssemblyInfo.cs
+C:\Users\Zdog\Documents\Projetos\valorantdle\Backend\API.Valorant.Dodle\API.Valorant.Dodle.Utilitario\obj\Debug\net7.0\API.Valorant.Dodle.Utilitario.csproj.CoreCompileInputs.cache
+C:\Users\Zdog\Documents\Projetos\valorantdle\Backend\API.Valorant.Dodle\API.Valorant.Dodle.Utilitario\obj\Debug\net7.0\API.Valorant.Dodle.Utilitario.sourcelink.json
+C:\Users\Zdog\Documents\Projetos\valorantdle\Backend\API.Valorant.Dodle\API.Valorant.Dodle.Utilitario\obj\Debug\net7.0\API.Valorant.Dodle.Utilitario.dll
+C:\Users\Zdog\Documents\Projetos\valorantdle\Backend\API.Valorant.Dodle\API.Valorant.Dodle.Utilitario\obj\Debug\net7.0\refint\API.Valorant.Dodle.Utilitario.dll
+C:\Users\Zdog\Documents\Projetos\valorantdle\Backend\API.Valorant.Dodle\API.Valorant.Dodle.Utilitario\obj\Debug\net7.0\API.Valorant.Dodle.Utilitario.pdb
+C:\Users\Zdog\Documents\Projetos\valorantdle\Backend\API.Valorant.Dodle\API.Valorant.Dodle.Utilitario\obj\Debug\net7.0\ref\API.Valorant.Dodle.Utilitario.dll

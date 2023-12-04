@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "API.Valorant.Dodle.Servico/1.0.0": {
+        "runtime": {
+          "API.Valorant.Dodle.Servico.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "API.Valorant.Dodle.Servico/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

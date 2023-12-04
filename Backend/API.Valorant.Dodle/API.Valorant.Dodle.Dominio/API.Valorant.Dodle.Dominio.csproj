@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Dto\Requisicao\" />
     <Folder Include="Entidades\" />
     <Folder Include="Interfaces\Servico\" />
     <Folder Include="Interfaces\Repositorio\" />

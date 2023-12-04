@@ -4,14 +4,167 @@
     "C:\\Users\\Zdog\\Documents\\Projetos\\valorantdle\\Backend\\API.Valorant.Dodle\\API.Valorant.Dodle\\API.Valorant.Dodle.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zdog\\Documents\\Projetos\\valorantdle\\Backend\\API.Valorant.Dodle\\API.Valorant.Dodle\\API.Valorant.Dodle.csproj": {
+    "C:\\Users\\Zdog\\Documents\\Projetos\\valorantdle\\Backend\\API.Valorant.Dodle\\API.Valorant.Dodle.Dominio\\API.Valorant.Dodle.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zdog\\Documents\\Projetos\\valorantdle\\Backend\\API.Valorant.Dodle\\API.Valorant.Dodle\\API.Valorant.Dodle.csproj",
-        "projectName": "API.Valorant.Dodle",
-        "projectPath": "C:\\Users\\Zdog\\Documents\\Projetos\\valorantdle\\Backend\\API.Valorant.Dodle\\API.Valorant.Dodle\\API.Valorant.Dodle.csproj",
+        "projectUniqueName": "C:\\Users\\Zdog\\Documents\\Projetos\\valorantdle\\Backend\\API.Valorant.Dodle\\API.Valorant.Dodle.Dominio\\API.Valorant.Dodle.Dominio.csproj",
+        "projectName": "API.Valorant.Dodle.Dominio",
+        "projectPath": "C:\\Users\\Zdog\\Documents\\Projetos\\valorantdle\\Backend\\API.Valorant.Dodle\\API.Valorant.Dodle.Dominio\\API.Valorant.Dodle.Dominio.csproj",
         "packagesPath": "C:\\Users\\Zdog\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zdog\\Documents\\Projetos\\valorantdle\\Backend\\API.Valorant.Dodle\\API.Valorant.Dodle\\obj\\",
+        "outputPath": "C:\\Users\\Zdog\\Documents\\Projetos\\valorantdle\\Backend\\API.Valorant.Dodle\\API.Valorant.Dodle.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Zdog\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Zdog\\Documents\\Projetos\\valorantdle\\Backend\\API.Valorant.Dodle\\API.Valorant.Dodle.Infra\\API.Valorant.Dodle.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Zdog\\Documents\\Projetos\\valorantdle\\Backend\\API.Valorant.Dodle\\API.Valorant.Dodle.Infra\\API.Valorant.Dodle.Infra.csproj",
+        "projectName": "API.Valorant.Dodle.Infra",
+        "projectPath": "C:\\Users\\Zdog\\Documents\\Projetos\\valorantdle\\Backend\\API.Valorant.Dodle\\API.Valorant.Dodle.Infra\\API.Valorant.Dodle.Infra.csproj",
+        "packagesPath": "C:\\Users\\Zdog\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Zdog\\Documents\\Projetos\\valorantdle\\Backend\\API.Valorant.Dodle\\API.Valorant.Dodle.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Zdog\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Zdog\\Documents\\Projetos\\valorantdle\\Backend\\API.Valorant.Dodle\\API.Valorant.Dodle.Dominio\\API.Valorant.Dodle.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Zdog\\Documents\\Projetos\\valorantdle\\Backend\\API.Valorant.Dodle\\API.Valorant.Dodle.Dominio\\API.Valorant.Dodle.Dominio.csproj"
+              },
+              "C:\\Users\\Zdog\\Documents\\Projetos\\valorantdle\\Backend\\API.Valorant.Dodle\\API.Valorant.Dodle.Utilitario\\API.Valorant.Dodle.Utilitario.csproj": {
+                "projectPath": "C:\\Users\\Zdog\\Documents\\Projetos\\valorantdle\\Backend\\API.Valorant.Dodle\\API.Valorant.Dodle.Utilitario\\API.Valorant.Dodle.Utilitario.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Zdog\\Documents\\Projetos\\valorantdle\\Backend\\API.Valorant.Dodle\\API.Valorant.Dodle.Utilitario\\API.Valorant.Dodle.Utilitario.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Zdog\\Documents\\Projetos\\valorantdle\\Backend\\API.Valorant.Dodle\\API.Valorant.Dodle.Utilitario\\API.Valorant.Dodle.Utilitario.csproj",
+        "projectName": "API.Valorant.Dodle.Utilitario",
+        "projectPath": "C:\\Users\\Zdog\\Documents\\Projetos\\valorantdle\\Backend\\API.Valorant.Dodle\\API.Valorant.Dodle.Utilitario\\API.Valorant.Dodle.Utilitario.csproj",
+        "packagesPath": "C:\\Users\\Zdog\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Zdog\\Documents\\Projetos\\valorantdle\\Backend\\API.Valorant.Dodle\\API.Valorant.Dodle.Utilitario\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,9 +198,99 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Zdog\\Documents\\Projetos\\valorantdle\\Backend\\API.Valorant.Dodle\\API.Valorant.Dodle\\API.Valorant.Dodle.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Zdog\\Documents\\Projetos\\valorantdle\\Backend\\API.Valorant.Dodle\\API.Valorant.Dodle\\API.Valorant.Dodle.csproj",
+        "projectName": "API.Valorant.Dodle",
+        "projectPath": "C:\\Users\\Zdog\\Documents\\Projetos\\valorantdle\\Backend\\API.Valorant.Dodle\\API.Valorant.Dodle\\API.Valorant.Dodle.csproj",
+        "packagesPath": "C:\\Users\\Zdog\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Zdog\\Documents\\Projetos\\valorantdle\\Backend\\API.Valorant.Dodle\\API.Valorant.Dodle\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Zdog\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Zdog\\Documents\\Projetos\\valorantdle\\Backend\\API.Valorant.Dodle\\API.Valorant.Dodle.Infra\\API.Valorant.Dodle.Infra.csproj": {
+                "projectPath": "C:\\Users\\Zdog\\Documents\\Projetos\\valorantdle\\Backend\\API.Valorant.Dodle\\API.Valorant.Dodle.Infra\\API.Valorant.Dodle.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

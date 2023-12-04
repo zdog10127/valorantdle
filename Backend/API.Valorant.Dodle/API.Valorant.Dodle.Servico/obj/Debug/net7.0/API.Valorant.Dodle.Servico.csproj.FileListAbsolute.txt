@@ -1,0 +1,12 @@
+C:\Users\Zdog\Documents\Projetos\valorantdle\Backend\API.Valorant.Dodle\API.Valorant.Dodle.Servico\bin\Debug\net7.0\API.Valorant.Dodle.Servico.deps.json
+C:\Users\Zdog\Documents\Projetos\valorantdle\Backend\API.Valorant.Dodle\API.Valorant.Dodle.Servico\bin\Debug\net7.0\API.Valorant.Dodle.Servico.dll
+C:\Users\Zdog\Documents\Projetos\valorantdle\Backend\API.Valorant.Dodle\API.Valorant.Dodle.Servico\bin\Debug\net7.0\API.Valorant.Dodle.Servico.pdb
+C:\Users\Zdog\Documents\Projetos\valorantdle\Backend\API.Valorant.Dodle\API.Valorant.Dodle.Servico\obj\Debug\net7.0\API.Valorant.Dodle.Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zdog\Documents\Projetos\valorantdle\Backend\API.Valorant.Dodle\API.Valorant.Dodle.Servico\obj\Debug\net7.0\API.Valorant.Dodle.Servico.AssemblyInfoInputs.cache
+C:\Users\Zdog\Documents\Projetos\valorantdle\Backend\API.Valorant.Dodle\API.Valorant.Dodle.Servico\obj\Debug\net7.0\API.Valorant.Dodle.Servico.AssemblyInfo.cs
+C:\Users\Zdog\Documents\Projetos\valorantdle\Backend\API.Valorant.Dodle\API.Valorant.Dodle.Servico\obj\Debug\net7.0\API.Valorant.Dodle.Servico.csproj.CoreCompileInputs.cache
+C:\Users\Zdog\Documents\Projetos\valorantdle\Backend\API.Valorant.Dodle\API.Valorant.Dodle.Servico\obj\Debug\net7.0\API.Valorant.Dodle.Servico.sourcelink.json
+C:\Users\Zdog\Documents\Projetos\valorantdle\Backend\API.Valorant.Dodle\API.Valorant.Dodle.Servico\obj\Debug\net7.0\API.Valorant.Dodle.Servico.dll
+C:\Users\Zdog\Documents\Projetos\valorantdle\Backend\API.Valorant.Dodle\API.Valorant.Dodle.Servico\obj\Debug\net7.0\refint\API.Valorant.Dodle.Servico.dll
+C:\Users\Zdog\Documents\Projetos\valorantdle\Backend\API.Valorant.Dodle\API.Valorant.Dodle.Servico\obj\Debug\net7.0\API.Valorant.Dodle.Servico.pdb
+C:\Users\Zdog\Documents\Projetos\valorantdle\Backend\API.Valorant.Dodle\API.Valorant.Dodle.Servico\obj\Debug\net7.0\ref\API.Valorant.Dodle.Servico.dll

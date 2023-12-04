@@ -13,7 +13,7 @@ namespace API.Valorantdle.Dominio.Interfaces.Repositorio
         Task<List<Arsenal>> BuscarArmasPeloTipo(string tipo);
         Task<Arsenal> BuscarPeloNome(string nome);
         Task CadastrarArma(Arsenal arsenal);
-        Task AtualizarArma(int idMapas, Arsenal arsenal);
+        Task AtualizarArma(int idArma, Arsenal arsenal);
         Task DeletarArma(int idArma);
     }
 }
